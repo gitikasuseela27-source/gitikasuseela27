@@ -38,6 +38,6 @@
 
 ## Connect With Me
 
-- LinkedIn: Your LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/gitika-suseela-14ab21386?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-- GitHub: Your GitHub URL
+- GitHub: https://github.com/gitikasuseela27-source
